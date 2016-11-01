@@ -1,0 +1,460 @@
+	<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>ROI MULIA</title>
+	<meta name="description" content="Test Page">
+	
+
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/bootstrap.css" />		
+	<link rel="stylesheet" href="css/animate.css" />		
+	<link rel="stylesheet" href="css/strokegap.css" />
+	<link rel="stylesheet" href="css/font-awesome.css" />
+	<link rel="stylesheet" href="css/style.css" />
+
+	<!-- Font -->
+	<link href='http://fonts.googleapis.com/css?family=Raleway:500,600,700,800,100,400,300' rel='stylesheet' type='text/css'>
+
+
+	<!-- Favicon Icons -->
+	<style>
+	#uniqe
+	{
+		font-size: 25px;
+	}
+	@media (min-width: 768px) {
+		#lola
+		{
+			width : auto;
+		}
+	}
+
+	</style>
+</head>
+<body>
+	
+
+	<div class="page-loader-bg"></div>
+	
+	
+
+	<div class="container">					
+		
+			
+		
+
+
+		
+			<!-- SLIDER -->
+			<section  class="thunder-top-slider row" style="margin-bottom : 0px;">
+			
+				<div class="thunder-slider-inner">
+					
+					<div class="slider-inner">
+					
+						<div class="slide-single">
+							
+							<img src="img/ProfileImage.jpg" alt="">	
+
+							<div class="text-wrap">
+								
+
+								<h1>Roi Mulia</h1>
+								
+								<h4>Top iOS Developer</h4>
+
+								
+
+								<div class="thunder-button-wrap">
+					
+									<div class="loadmore-wrapper thunder-border">
+										
+										<a href="javascript: move();" class="loadmore-button thunder-border">PORTFOLIO</a>
+
+									</div>	<!-- end loadmore-wrapper -->
+
+								</div> <!-- end thunder-button-wrap -->
+
+							</div> <!-- end text-wrap -->				
+
+						</div> <!-- end slider-single -->
+
+						
+
+					</div> <!-- end slider-inner -->
+
+				</div> <!-- end thunder-slider-inner -->
+
+
+			</section>
+			<!-- END SLIDER -->
+			
+				<section class="section-contact-summary map-contact row" style="margin-bottom : 0px;background-color : #fe8869;" >
+		
+				<div class="container">
+					
+					<div class="col-sm-4">
+						
+						<span class="icon icon-Pointer"></span>
+
+						<address class="p-location">
+								
+							 
+						    <span class="p-locality" style="color:white;">TEL AVIV</span>, 
+						    <span class="p-country-name" style="color:white;">ISRAEL</span>
+
+						</address>
+
+					</div>
+
+					<div class="col-sm-4">
+						
+						<span class="icon icon-Phone2"></span>
+
+						<p class="p-tel" style="color:white; text-decoration: underline;"> +972 548009858</p>
+
+					</div>	
+
+					<div class="col-sm-4">
+						
+						<span class="icon icon-Mail"></span>
+
+						<p><a href="mailto:muliastudios@gmail.com"  class="com" style="color:white; text-decoration: underline;">MULIASTUDIOS@GMAIL.COM</a></p>
+
+					</div>	
+
+				</div> <!-- end container -->
+
+			</section>
+			<!-- END CONTACT SUMMARY -->
+			
+			<!-- SERVICES -->
+				<section class="section-skills thunder-bgcolor row no-margin">
+			
+			<div class="container">				
+
+					<div class="progressbar-wrap col-sm-6">
+						
+						<div class="progress">
+
+						  <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">					    
+						  </div>
+
+						</div>
+
+						<div class="progress-meta">
+								
+							<h6 class="progress-title">SWIFT</h6>
+							<h6 class="progress-value">95%</h6>
+
+						</div> <!-- end progress-meta -->
+
+						<div class="progress">
+
+						  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="95">				
+						  </div>
+
+						</div>
+
+						<div class="progress-meta">
+								
+							<h6 class="progress-title">DESIGN(UI/UX)</h6>
+							<h6 class="progress-value">90%</h6>
+
+						</div> <!-- end progress-meta -->
+
+						<div class="progress">
+
+						  <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">						   
+						  </div>
+
+						</div>
+
+						<div class="progress-meta">
+								
+							<h6 class="progress-title">PHP</h6>
+							<h6 class="progress-value">85%</h6>
+
+						</div> <!-- end progress-meta -->
+
+						<div class="progress">
+
+						  <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+						
+						  </div>
+
+						</div>
+
+						<div class="progress-meta">
+								
+							<h6 class="progress-title">screen compatibility </h6>
+							<h6 class="progress-value">100%</h6>
+
+						</div> <!-- end progress-meta -->
+
+					</div>				
+
+					<div class="col-sm-6" >
+						
+						<h5 style="font-size:23px; color:white;">Hey there, my name is Roi.</h5>
+						
+						 <p id="uniqe">
+						 I'm passionate and enthusiastic about mobile app development (especially for iOS). I always place UI/UX as a high priority. I believe that design is the most valuable component of ANY product. I embrace challenges and enjoy coming up with innovative ways to solve them. I take pride in being self-taught, self-motivated and not afraid to fail.
+						 </p>
+						 						<br>
+
+						<div class="col-md-6 col-md-offset-3 wow bounceInUp animated" style="margin-left: 0px;padding-right: 0px;padding-left: 0px;">
+						<a href="Roi Mulia-CV.pdf" class="btn btn-default btn-custom-2" style="background-color : white;"><i class="fa fa-cloud-download icon-before"></i> Download CV</a>
+					</div>
+											<br></br>
+											<a href="javascript: move2();"> <h5  style="font-size:23px;color:white;text-decoration: underline;">Fast Free Estimation for Your App</h5></a>
+						
+
+					</div> <!-- end col-sm-4 -->				
+
+			</div> <!-- end container -->
+	
+		</section>
+			<!-- END SERVICES -->
+
+
+			<div class="separator-line"></div>
+			<!-- WORKS -->
+			<section ID="proto" class="section-works-v1 row" style="margin-bottom : 10px; margin-top : 15px;">			
+					
+				<h1 class="headtitle" style="color:#FE8869;">MY PORTFOLIO</h1>
+
+				<div class="separator-line"></div>
+
+				<p class="section-desc">ENJOY YOURSELF</p>
+
+
+				<div class="section-wrap clearfix row">
+						
+						<div class="h-product col-xs-6 col-sm-4 col-md-3">
+
+							<div class="product-inner thunder-hover">
+								
+								<figure class="overlay" style="width:auto;">
+							
+									<a href="https://itunes.apple.com/us/app/selfie-stream-free-continuous/id1021427314?mt=8">
+										<img class="u-photo" src="img/selfieStream.jpg" alt="">	
+
+										<div class="img-border-wrap">										
+											<span class="img-border"></span>
+											<span class="plus"></span>
+										</div> <!-- end img-border-wrap -->									
+									</a>
+
+								</figure>
+
+								<div class="work-meta">
+									
+									<h6 class="p-name"><a href="https://itunes.apple.com/us/app/selfie-stream-free-continuous/id1021427314?mt=8">SELFIE STREAM</a></h6>
+
+									<p class="p-category">PRODUCTIVITY</p>
+
+								</div> <!-- end work-meta -->
+
+							</div> <!-- end product-inner -->
+
+						</div> <!-- end h-product -->
+
+						<div class="h-product col-xs-6 col-sm-4 col-md-3">
+
+							<div class="product-inner thunder-hover">
+								
+								<figure class="overlay">
+							
+									<a href="https://itunes.apple.com/us/app/mbhn-iq-bdwq-d-kmh-th-b-mt-hkm!/id975893138?mt=8">
+										<img class="u-photo" src="img/iqIcon.jpg" alt="">	
+
+										<div class="img-border-wrap">										
+											<span class="img-border"></span>
+											<span class="plus"></span>
+										</div> <!-- end img-border-wrap -->									
+									</a>
+
+								</figure>
+
+								<div class="work-meta">
+									
+									<h6 class="p-name"><a href="https://itunes.apple.com/us/app/mbhn-iq-bdwq-d-kmh-th-b-mt-hkm!/id975893138?mt=8">IQ TEST</a></h6>
+
+									<p class="p-category">ENTERTAINMENT</p>
+
+								</div> <!-- end work-meta -->
+
+							</div> <!-- end product-inner -->
+
+						</div> <!-- end h-product -->
+
+						<div class="h-product col-xs-6 col-sm-4 col-md-3">
+
+							<div class="product-inner thunder-hover">
+								
+								<figure class="overlay">
+							
+									<a href="#">
+										<img class="u-photo" src="img/mostrecenticon.jpg" alt="">	
+
+										<div class="img-border-wrap">										
+											<span class="img-border"></span>
+											<span class="plus"></span>
+										</div> <!-- end img-border-wrap -->									
+									</a>
+
+								</figure>
+
+								<div class="work-meta">
+									
+									<h6 class="p-name"><a href="#">MOST RECENTS</a></h6>
+
+									<p class="p-category">UTILITY</p>
+
+								</div> <!-- end work-meta -->
+
+							</div> <!-- end product-inner -->
+
+						</div> <!-- end h-product -->
+
+						<div class="h-product col-xs-6 col-sm-4 col-md-3">
+
+							<div class="product-inner thunder-hover">
+								
+								<figure class="overlay">
+							
+									<a href="https://itunes.apple.com/us/app/an-impossible-rush/id954165643?mt=8">
+										<img class="u-photo" src="img/impossible_icon.jpg" alt="">	
+
+										<div class="img-border-wrap">										
+											<span class="img-border"></span>
+											<span class="plus"></span>
+										</div> <!-- end img-border-wrap -->									
+									</a>
+
+								</figure>
+
+								<div class="work-meta">
+									
+									<h6 class="p-name"><a href="https://itunes.apple.com/us/app/an-impossible-rush/id954165643?mt=8">IMPOSSIBLE RUSH</a></h6>
+
+									<p class="p-category">GAMES	</p>
+
+								</div> <!-- end work-meta -->
+
+							</div> <!-- end product-inner -->
+
+						</div> <!-- end h-product -->
+
+
+				
+
+			</section>
+			<!-- END WORKS -->
+
+			<!-- CONTACT SUMMARY -->
+					<!-- CONTACT FORM -->
+					<div class="separator-line"></div>
+			<section ID="emails" class="section-contact-form row" style="margin-bottom : 0px;">
+				<h1 class="headtitle" style="color:#FE8869; margin-bottom : 20px;">
+				CONTACT ME</h1>
+				<div class="separator-line"></div>
+				<form action="post">
+							
+					<div class="row">
+						<div class="col-sm-4">
+							<input type="text" class="form-control" placeholder="Name" required>
+						</div>
+						<div class="col-sm-4">
+							<input type="email" class="form-control" placeholder="Email" required>
+						</div>
+						<div class="col-sm-4">
+							<input type="email" class="form-control" placeholder="Subject" required>
+						</div>
+					</div>
+					<textarea class="form-control" placeholder="Message" required></textarea>
+					
+
+				</form>
+
+				
+				<div class="thunder-button-wrap" style="margin-bottom : 20px;">
+					
+					<div class="loadmore-wrapper thunder-border">
+						
+						<a href="" class="loadmore-button thunder-border">send</a>
+
+					</div>	<!-- end loadmore-wrapper -->
+
+				</div> <!-- end thunder-b
+			</section>
+			<!-- END CONTACT FORM -->
+
+
+<footer class="bottom-footer clearfix row" style="margin-left: 0px; margin-right : 0px; background-color : #fe8869; " role="contentinfo">			
+												
+				<figure id="lola" class="logo col-sm-6">
+									<h6>© 2015-2016 ROI MULIA, All Rights Reserved.</h6>
+								
+					
+				</figure>
+
+				<div class="socials-wrap col-sm-6">
+														
+
+				</div> <!-- end socials-wrap -->
+
+			</footer>
+			<!-- END FOOTER -->			
+
+
+
+	</div> <!-- end container -->
+
+
+
+	<!-- Jquery -->
+	<script src="js/jquery.js"></script>	
+	<script src="js/jquery-ui.js"></script>	
+	<script src="js/masonry.js"></script>
+	<script src="js/fitvids.js"></script>
+	<script src="js/imagesloaded.js"></script>	
+	<script src="js/touchswipe.js"></script>
+	<script src="js/nicescroll.js"></script>
+	<script src="js/map.js"></script>
+	<script src="js/isotope.js"></script>
+	<script src="js/ytplayer.js"></script>
+	<script src="js/testimonials.js"></script>
+	<script src="js/waypoints.js"></script>			
+	<script src="js/circular.js"></script>	
+	<script src="js/counterup.js"></script>	
+	<script src="js/vertical-slider.js"></script>		
+	<script src="js/split-slider.js"></script>		
+	<script src="js/queryloader2.js"></script>		
+	<script src="js/functions.js"></script>	
+	<script> 
+	function move()
+	{
+
+	 $("html, body").animate({ scrollTop: $('#proto').offset().top }, 1000);
+
+	} 
+
+	function move2()
+	{
+
+	 $("html, body").animate({ scrollTop: $('#emails').offset().top }, 1000);
+
+	} 
+	</script>
+
+
+
+</body>
+</html>
